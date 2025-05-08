@@ -52,18 +52,5 @@ Helped explain complex SQL queries and Power BI DAX logic.
 Assisted in debugging and optimizing performance issues.
 Made it easier to learn from my mistakes and apply corrections on the go.
 
-📁 Project Structure
-markdown
-Copy
-Edit
-├── /PowerBI_Dashboard
-│   ├── SalesDashboard.pbix
-│
-├── /SQL_Scripts
-│   ├── data_cleaning.sql
-│   ├── customer_segment_query.sql
-│   └── employee_order_metrics.sql
-│
-├── README.md
 ✅ Conclusion
 This project demonstrates how raw data can be turned into powerful business insights using the right tools. It also showcases my growing proficiency in SQL, Power BI, and business intelligence. This is a step forward toward more advanced analytics and data-driven decision-making.
